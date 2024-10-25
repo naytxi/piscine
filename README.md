@@ -2,6 +2,6 @@
 
 🖐️ Hi! I'm Nay and I'm currently learning to code.
 
-🚀 This is the the piscine part of the 42 Urduliz, first steps on C with peer to peer method.
+🚀 This is the piscine part of the 42 Urduliz, first steps on C with peer to peer method.
 
 ✈️ Welcome to my journey.
