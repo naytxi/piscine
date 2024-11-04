@@ -1,5 +1,6 @@
 
 ![github-header-image(2)](https://github.com/user-attachments/assets/48f39ec9-2523-4668-aa60-655f648a4896)
+![Texto alternativo](https://i.pinimg.com/originals/50/a5/13/50a513fa5b00522a0b4327da51316030.gif)
 
 🖐️ Hi! I'm Nay and I'm currently learning to code.
 
